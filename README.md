@@ -1,4 +1,10 @@
 ### Hi there 👋, thanks for stopping by, this is **Diana Tabares**.
+<div>
+ <p>
+Systems engineer with two years of experience as a development analyst and eight years of experience in customer service and sales. With knowledge in plsql, databases, html, css, javascript, react and scrum. I am a person who likes to work in a team, committed and eager to learn.
+</p>
+</div>
+
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
@@ -25,7 +31,10 @@ const DianaTabares = {
 <a href="https://github.com/DianaTabares">
    <img src="https://komarev.com/ghpvc/?username=DianaTabares">
 </a>
+### Github Repos
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=PackageTemplate&show_owner=true)](https://github.com/DianaTabares/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Foods-Ecommerce&show_owner=true)](https://github.com/DianaTabares/Foods-Ecommerce)
 
 ⭐️ From [@DianaTabares](https://github.com/DianaTabares)
 <!--
