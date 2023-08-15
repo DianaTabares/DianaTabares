@@ -4,15 +4,15 @@
 
 ```javascript
 const DianaTabares = {
-    pronouns: "He" | "Him",
+    pronouns: "She" | "Her",
     askMeAbout: ["web dev", "dataBase"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["React","Redux"],
             css: ["bootstrap"]
         },
-        backEnd: ["Javascript"],
-        databases: ["MySql", "oracle", "postgres"],
+        backEnd: ["JavaScript", "Node.js"],
+        databases: ["MySql", "Oracle", "Postgres"],
     }
 };
 ```
