@@ -31,9 +31,10 @@ const DianaTabares = {
 <a href="https://github.com/DianaTabares">
    <img src="https://komarev.com/ghpvc/?username=DianaTabares">
 </a>
+
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=PackageTemplate&show_owner=true)](https://github.com/DianaTabares/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Pi_Countries&show_owner=true)](https://github.com/DianaTabares/Pi_Countries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Foods-Ecommerce&show_owner=true)](https://github.com/DianaTabares/Foods-Ecommerce)
 
 ⭐️ From [@DianaTabares](https://github.com/DianaTabares)
