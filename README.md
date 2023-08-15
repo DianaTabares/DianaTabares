@@ -35,7 +35,7 @@ const DianaTabares = {
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Pi_Countries&show_owner=true)](https://github.com/DianaTabares/Pi_Countries)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Foods-Ecommerce&show_owner=true)](https://github.com/DianaTabares/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karl065&repo=PFSportZone&show_owner=true)](https://github.com/karl065/PFSportZone )
 
 ⭐️ From [@DianaTabares](https://github.com/DianaTabares)
 <!--
