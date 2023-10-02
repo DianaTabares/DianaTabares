@@ -36,6 +36,7 @@ const DianaTabares = {
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Pi_Countries&show_owner=true)](https://github.com/DianaTabares/Pi_Countries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karl065&repo=PFSportZone&show_owner=true)](https://github.com/karl065/PFSportZone )
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=challenge&show_owner=true)](https://github.com/DianaTabares/challenge)
 
 ⭐️ From [@DianaTabares](https://github.com/DianaTabares)
 <!--
