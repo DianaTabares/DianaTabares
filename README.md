@@ -1,7 +1,7 @@
 ### Hi there 👋, thanks for stopping by, this is **Diana Tabares**.
 <div>
  <p>
-Systems engineer with two years of experience as a development analyst and eight years of experience in customer service and sales. With knowledge in plsql, databases, html, css, javascript, react and scrum. I am a person who likes to work in a team, committed and eager to learn.
+Systems Engineer - Backend Developer with 2 years as a Junior B1 Development Analyst specialized in PLSQL and Database. With knowledge in SQL, Postgres, MySQL, PLSQL, Java, IReport, Node.js, Spring Boot, HTML, CSS, JavaScript, React and Redux Experience in creating procedures, functions, materialized views for databases, also creating reports in IReport, web applications with React, JavaScript, Sequelize models and controllers that allowed me to develop skills such as Teamwork, Self-learning and problem solving.
 </p>
 </div>
 
@@ -17,8 +17,8 @@ const DianaTabares = {
             js: ["React","Redux"],
             css: ["bootstrap"]
         },
-        backEnd: ["JavaScript", "Node.js"],
-        databases: ["MySql", "Oracle", "Postgres"],
+        backEnd: ["JavaScript", "Node.js, "Express", "NodeMailer","Java"],
+        databases: ["MySql", "Oracle", "Postgres","MongoDB"],
     }
 };
 ```
