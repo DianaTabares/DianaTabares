@@ -1,7 +1,7 @@
 ### Hi there 👋, thanks for stopping by, this is **Diana Tabares**.
 <div>
  <p>
-Systems Engineer - Backend Developer with 2 years as a Junior B1 Development Analyst specialized in PLSQL and Database. With knowledge in SQL, Postgres, MySQL, PLSQL, Java, IReport, Node.js, Spring Boot, HTML, CSS, JavaScript, React and Redux Experience in creating procedures, functions, materialized views for databases, also creating reports in IReport, web applications with React, JavaScript, Sequelize models and controllers that allowed me to develop skills such as Teamwork, Self-learning and problem solving.
+Systems Engineer - Backend Developer with 2 years, Development Analyst specialized in PLSQL and Database. With knowledge in SQL, Postgres, MySQL, PLSQL, Java, IReport, Node.js, Spring Boot, HTML, CSS, JavaScript, React and Redux Experience in creating procedures, functions, materialized views for databases, also creating reports in IReport, web applications with React, JavaScript, Sequelize models and controllers that allowed me to develop skills such as Teamwork, Self-learning and problem solving.
 </p>
 </div>
 
@@ -34,7 +34,7 @@ const DianaTabares = {
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=Pi_Countries&show_owner=true)](https://github.com/DianaTabares/Pi_Countries)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IP-Proyectos-y-Soluciones&repo=CammionControlApp&show_owner=true)](https://github.com/IP-Proyectos-y-Soluciones/CammionControlApp/tree/Dianis2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karl065&repo=PFSportZone&show_owner=true)](https://github.com/karl065/PFSportZone )
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DianaTabares&repo=challenge&show_owner=true)](https://github.com/DianaTabares/challenge)
 
